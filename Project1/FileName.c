@@ -6,7 +6,7 @@ int main(void) {
 	int a;
 	int i, j;
 
-	printf("2 이상의 정수를 입력하세요 : ");
+	printf("2 이상의 정수를 입력 : ");
 	scanf("%d", &a);
 
 	for (i = 2; i <= a; i++) {
